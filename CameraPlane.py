@@ -11,9 +11,9 @@ bl_info = {
     "version": (0, 1),
     "blender": (2, 82, 0),
     "location": "View3D > Add > Mesh > Camera Plane",
-    "description": "Adds a camera plane",
+    "description": "Add a camera plane",
     "warning": "",
-    "wiki_url": "",
+    "wiki_url": "https://github.com/NoachBlend/CameraPlane/wiki",
     "category": "Add Mesh",
 }
 
